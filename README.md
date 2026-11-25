@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=280&section=header&text=Md%20Samiual%20Mia&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20MERN%20%26%20Mobile%20Developer&descSize=20&descAlignY=58&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Md%20Samiual%20Islam&fontSize=60&fontColor=ffffff" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Hello+World!+I'm+Sami+%F0%9F%91%8B;Full+Stack+MERN+Developer;Flutter+%26+Firebase+Mobile+Apps;CSE+Student+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Build.+Break.+Learn.+Repeat." />
 
