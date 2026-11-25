@@ -41,7 +41,7 @@
 
 | Project | Stack | What it is |
 |---|---|---|
-| Student Monthly Expense Manager | Flutter, Firebase | Team project to track student expenses |
+| [Student Monthly Expense Manager](https://student-expense-manager-d455f.web.app) | Flutter, Firebase | Track student monthly expenses. Live demo login: demo@sami.com / Demo@1234 |
 | Sami Live Fashion | React, Vite | Fashion e-commerce web app |
 | Personal Portfolio | Web | My personal portfolio website |
 | Smart Dustbin | Arduino | Ultrasonic sensor based automatic dustbin |
