@@ -52,7 +52,7 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=samiual67&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=samiual67&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiual67&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117" />
 
 <img src="https://streak-stats.demolab.com?user=samiual67&theme=midnight-purple&hide_border=true&background=0d1117&currStreakLabel=A78BFA&ring=7c3aed&fire=a78bfa" />
